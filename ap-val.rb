@@ -391,3 +391,4 @@ registration_valuation_results
 # maybe a hash for the above so the program can work it out etc!
 # Popularity on Facebook & LinkedIn
 # Is it a surname or firstname?
+# testing and using GitHub
